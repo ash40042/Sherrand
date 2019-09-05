@@ -27,12 +27,20 @@ This project is still in development so we are not yet sharing project code, but
 
 
 
-
+<break>
+    Make a Request:
+  </break>
 <img src="https://drive.google.com/uc?export=view&id=1NYPgQ68cRkXSDPn6W8K3F8juwvHFkNgX" data-canonical-src="https://drive.google.com/uc?export=view&id=1NYPgQ68cRkXSDPn6W8K3F8juwvHFkNgX" width="200" height="400" />
-
+<break>
+    Your current requests:
+  </break>
 <img src="https://drive.google.com/uc?export=view&id=1gUFE_CSllL4bp-5_LzMgfOpxP04vJhPb" data-canonical-src="https://drive.google.com/uc?export=view&id=1gUFE_CSllL4bp-5_LzMgfOpxP04vJhPb" width="200" height="400" />
-
+<break>
+    Requester code prompt:
+  </break>
 <img src="https://drive.google.com/uc?export=view&id=1gSY9Vrx_NgvBXrSTdMYcbaSfAEEewpwW" data-canonical-src="https://drive.google.com/uc?export=view&id=1gSY9Vrx_NgvBXrSTdMYcbaSfAEEewpwW" width="200" height="400" />
-
+<break>
+    Profile Page:
+  </break>
 <img src="https://drive.google.com/uc?export=view&id=1TogSXoQzqKNu5QwNzecMBpgJMZcimerQ" data-canonical-src="https://drive.google.com/uc?export=view&id=1TogSXoQzqKNu5QwNzecMBpgJMZcimerQ" width="200" height="400" />
 
