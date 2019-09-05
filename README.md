@@ -3,4 +3,27 @@ Peer-to-peer convenience service for college students
 
 This project is still in development so we are not yet sharing project code, but here is a description of our project and some screenshots of what we have accomplished so far.
 
-![homescreen](https://drive.google.com/uc?export=view&id=1B2EKx4l5XQknqmDMRzStIloqUF71Qfcf) <!-- .element height="10%" width="10%" -->
+<!-- ![homescreen](https://drive.google.com/uc?export=view&id=1B2EKx4l5XQknqmDMRzStIloqUF71Qfcf) -->
+
+
+<img src="https://drive.google.com/uc?export=view&id=1O6ht8zG-6XQXSbubikuCiRpnMQtSeQPi" data-canonical-src="https://drive.google.com/uc?export=view&id=1O6ht8zG-6XQXSbubikuCiRpnMQtSeQPi" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=19xscIdbXlULKqgKJMW0IFBuTzJjWriVb" data-canonical-src="https://drive.google.com/uc?export=view&id=19xscIdbXlULKqgKJMW0IFBuTzJjWriVb" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1YWME4U4Os1Hkr-wUy_63OHHiiAY2bVXu" data-canonical-src="https://drive.google.com/uc?export=view&id=1YWME4U4Os1Hkr-wUy_63OHHiiAY2bVXu" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1mDYnWyFIDMXP3euWhtPllSoDqGXIdFN-" data-canonical-src="https://drive.google.com/uc?export=view&id=1mDYnWyFIDMXP3euWhtPllSoDqGXIdFN-" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1vyAX9vjz0Wh0PO5jzGWjPnA0a0VM-4uw" data-canonical-src="https://drive.google.com/uc?export=view&id=1vyAX9vjz0Wh0PO5jzGWjPnA0a0VM-4uw" width="200" height="400" />
+
+
+
+
+<img src="https://drive.google.com/uc?export=view&id=1NYPgQ68cRkXSDPn6W8K3F8juwvHFkNgX" data-canonical-src="https://drive.google.com/uc?export=view&id=1NYPgQ68cRkXSDPn6W8K3F8juwvHFkNgX" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1gUFE_CSllL4bp-5_LzMgfOpxP04vJhPb" data-canonical-src="https://drive.google.com/uc?export=view&id=1gUFE_CSllL4bp-5_LzMgfOpxP04vJhPb" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1gSY9Vrx_NgvBXrSTdMYcbaSfAEEewpwW" data-canonical-src="https://drive.google.com/uc?export=view&id=1gSY9Vrx_NgvBXrSTdMYcbaSfAEEewpwW" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1TogSXoQzqKNu5QwNzecMBpgJMZcimerQ" data-canonical-src="https://drive.google.com/uc?export=view&id=1TogSXoQzqKNu5QwNzecMBpgJMZcimerQ" width="200" height="400" />
+
