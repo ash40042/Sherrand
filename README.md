@@ -1,8 +1,8 @@
 # Sherrand
 Peer-to-peer convenience service for college students
-<break>
+<break> </break>
 Creators: Ashwin Shanker, Parth Patel, Grant Gechtman
-    </break>
+   
 
 This project is still in development so we are not yet sharing project code, but here are some screenshots of what we have accomplished so far.
 
