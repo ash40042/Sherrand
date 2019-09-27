@@ -3,7 +3,7 @@ Peer-to-peer convenience service for Berkeley students
 
 
    
-Creators: Ashwin Shanker, Parth Patel, Grant Gechtman
+Creators: Ashwin Shanker & Parth Patel
    
    
    
